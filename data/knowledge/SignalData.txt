@@ -1,0 +1,3 @@
+Company: SignalData
+Sector: Financial Data
+SignalData is growing quickly. Priorities include scalable data operations, data-quality monitoring, customer support automation and improved internal knowledge access.
