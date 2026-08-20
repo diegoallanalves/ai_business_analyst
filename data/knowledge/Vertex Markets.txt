@@ -1,0 +1,3 @@
+Company: Vertex Markets
+Sector: Capital Markets
+The company has strong revenue growth with moderate automation. Potential data opportunities include operational monitoring, research workflows and exception investigation. Low-latency and auditability requirements are important.
