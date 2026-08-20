@@ -1,0 +1,4 @@
+Company: AsterPay
+Sector: Banking & Payments
+AsterPay is expanding its digital payments platform. Operational reviews highlight rising manual payment exception handling, fragmented support data and increasing customer complaints. Management is evaluating workflow automation and improved data integration. The objective is to reduce payment operations cost and resolution time without weakening controls or customer experience.
+Important: complaints alone do not prove that AI is the correct solution. Root-cause analysis is required before selecting technology.
