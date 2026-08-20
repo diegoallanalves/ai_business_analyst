@@ -1,0 +1,6 @@
+company,sector,revenue_m,revenue_growth_pct,cost_growth_pct,margin_pct,automation_pct,data_quality,complaints,manual_work_pct
+AsterPay,Banking & Payments,84,8,17,17.9,38,76,92,68
+Harbor Insurance,Insurance,112,5,14,22.0,44,80,118,62
+Northstar Wealth,Wealth Management,95,15,7,31.0,61,89,31,39
+Vertex Markets,Capital Markets,130,18,9,27.0,57,86,47,45
+SignalData,Financial Data,72,27,12,24.0,60,84,55,42
