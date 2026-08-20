@@ -1,0 +1,3 @@
+Company: Harbor Insurance
+Sector: Insurance
+Claims operations have high manual document review and customer complaints. Data exists across claims, policy and customer-service systems. Potential improvements include workflow redesign, document extraction and assisted triage, subject to human approval for high-impact claims.
